@@ -1,0 +1,28 @@
+{
+  "name": "async-await",
+  "version": "1.0.0",
+  "description": "Project to help me learn async await promise style.",
+  "main": "app-promises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edo9k/learning-async-await.git"
+  },
+  "keywords": [
+    "node",
+    "async",
+    "await",
+    "promise",
+    "javascript",
+    "es6",
+    "learning"
+  ],
+  "author": "Eduardo França",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edo9k/learning-async-await/issues"
+  },
+  "homepage": "https://github.com/edo9k/learning-async-await#readme"
+}
